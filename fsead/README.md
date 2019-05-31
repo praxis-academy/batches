@@ -12,7 +12,8 @@
 | 6  | Ady Rahmansyah | Submitted 5/27/19, 10:46 PM | - | - | Penentuan jadwal interview |
 | 7  | Kafin Salim | Submitted 5/28/19, 8:12 AM | - | - | Penentuan jadwal interview |
 | 8  | Zakki | Submitted 5/28/19, 10:55 AM | - | - | Penentuan jadwal interview |
-| 9  | Hendra | Submitted 5/28/19, 12:03 PM | - | - | Penentuan jadwal interview |
+| 9  | Hendra | Submitted 5/28/19, 12:03 PM | - | - | Jadwal interview: 3 Juni 2019, jam 10 WITA -
+Google Hangout |
 | 10  | Suratni Jufri | Submitted 5/28/19, 11:27 PM | - | - | Penentuan jadwal interview |
 | 11  | Triyas Niko Saputra | Submitted 5/29/19, 4:35 AM | Tidak diterima | - | Usia tidak memenuhi
 syarat |
