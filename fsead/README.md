@@ -37,8 +37,7 @@ Pendaftaran dan Seleksi | Pengumuman | Pendidikan
 | 8  | Zakki | Submitted 5/28/19, 10:55 AM | - | - | Penentuan jadwal interview |
 | 9  | Hendra | Submitted 5/28/19, 12:03 PM | - | - | Jadwal interview: 3 Juni 2019, jam 10 WITA - Google Hangout |
 | 10  | Suratni Jufri | Submitted 5/28/19, 11:27 PM | - | - | Penentuan jadwal interview |
-| 11  | Triyas Niko Saputra | Submitted 5/29/19, 4:35 AM | Tidak diterima | - | Usia tidak memenuhi
-syarat |
-| 12  | Herlambang Dwi Prakoso | Submitted 5/29/19, 9:43 AM | - | - | Penentuan jadwal interview  |
+| 11  | Triyas Niko Saputra | Submitted 5/29/19, 4:35 AM | Tidak diterima | - | Usia tidak memenuhi syarat |
+| 12  | Herlambang Dwi Prakoso | Submitted 5/29/19, 9:43 AM | - | - | Jadwal interview: 3 Juni 2019, jam 15:30 WIB, WhatsApp |
 | 13  | Suryani | Submitted 5/30/19, 6:44 AM | - | - | Penentuan jadwal interview |
 | 14  | Suritno Fayanto | Submitted 5/31/19, 2:59 PM | - | - | Penentuan jadwal interview |
