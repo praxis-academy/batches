@@ -1,5 +1,28 @@
 # Full Stack Enterprise Application Developer
 
+## Tanggal-tanggal Penting
+
+Proses pendidikan di **Praxis Academy** memerlukan waktu 2 bulan untuk setiap *batch*. Saat ini,
+setiap *batch* menerima maksimal 30 peserta didik.
+
+### Batch 1
+
+Pendaftaran dan Seleksi | Pengumuman | Pendidikan
+--- | --- | ---
+23 Mei 2019 - 14 Juni 2019  | Paling lambat 14 Juni 2019 | 17 Juni 2019 - 17 Agustus 2019
+
+### Batch 2
+
+Pendaftaran dan Seleksi | Pengumuman | Pendidikan
+--- | --- | ---
+24 Juli 2019 - 16 Agustus 2019  | Paling lambat 16 Agustus 2019 | 19 Agustus 2019 - 19 Oktober 2019
+
+### Batch 3
+
+Pendaftaran dan Seleksi | Pengumuman | Pendidikan
+--- | --- | ---
+30 September 2019 - 18 Oktober 2019| Paling lambat 18 Oktober 2019 | 21 Oktober 2019 - 21 Desember 2019
+
 ## Batch 1
 
 | No | Nama Peserta | Status Pendaftaran | Status Penerimaan | Status Pendidikan | Keterangan |
