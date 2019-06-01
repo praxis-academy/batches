@@ -4,7 +4,7 @@
 
 | No | Nama Peserta | Status Pendaftaran | Status Penerimaan | Status Pendidikan | Keterangan |
 |:--:|:------------:|:------------------:|:-----------------:|:-----------------:|:----------:|
-| 1  | Ahmad Maulana Baehaqi | Submitted 5/27/19, 2:53 PM | - | - | Penentuan jadwal interview |
+| 1  | Ahmad Maulana Baehaqi | Submitted 5/27/19, 2:53 PM | - | - | Jadwal interview: 1 Juni 2019, jam 09:00 WIB - WA / Google Hangout |
 | 2  | Alman | Submitted 5/27/19, 3:22 PM | - | - | Penentuan jadwal interview |
 | 3  | Indra Wijaya | Submitted 5/27/19, 3:22 PM | - | - | Penentuan jadwal interview |
 | 4  | Mulyadi Mustamin | Submitted 5/27/19, 4:05 PM | - | - | Penentuan jadwal interview |
