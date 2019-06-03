@@ -27,7 +27,7 @@ Pendaftaran dan Seleksi | Pengumuman | Pendidikan
 
 | No | Nama Peserta | Asal Kota | Status Pendaftaran | Status Penerimaan | Status Pendidikan | Keterangan |
 |:--:|:------------:|:---------:|:------------------:|:-----------------:|:-----------------:|:----------:|
-| 1  | Ahmad Maulana Baehaqi | Pasuruan | Submitted 5/27/19, 2:53 PM | - | - | Jadwal interview: 1 Juni 2019, jam 09:00 WIB - WA / Google Hangout |
+| 1  | Ahmad Maulana Baehaqi | Pasuruan | Submitted 5/27/19, 2:53 PM | Diterima - 3 Juni 2019 | Persiapan | Jadwal interview: 1 Juni 2019, jam 09:00 WIB - WA / Google Hangout |
 | 2  | Alman | Yogyakarta | Submitted 5/27/19, 3:22 PM | - | - | Penentuan jadwal interview |
 | 3  | Indra Wijaya | Palu | Submitted 5/27/19, 3:22 PM | - | - | Penentuan jadwal interview |
 | 4  | Mulyadi Mustamin | Kendari | Submitted 5/27/19, 4:05 PM | - | - | Penentuan jadwal interview |
