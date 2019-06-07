@@ -42,3 +42,4 @@ Pendaftaran dan Seleksi | Pengumuman | Pendidikan
 | 13  | Suryani | Banten | Submitted 5/30/19, 6:44 AM | - | - | Jadwal interview: 6 Juni 2019, jam 21:00 WIB - WhatsApp |
 | 14  | Suritno Fayanto | Yogyakarta | Submitted 5/31/19, 2:59 PM | - | - | Penentuan jadwal interview |
 | 15  | Rendy Rivai | Yogyakarta | Submitted 6/2/19, 10:23 AM | - | - | Penentuan jadwal interview |
+| 16  | Hajar Durratun Nasihah | Yogyakarta | Submitted 6/5/19, 1:25 PM | Tidak diterima| - | Usia tidak memenuhi syarat |
