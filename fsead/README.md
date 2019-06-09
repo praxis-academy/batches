@@ -30,9 +30,9 @@ Pendaftaran dan Seleksi | Pengumuman | Pendidikan
 | 1  | Ahmad Maulana Baehaqi | Pasuruan | Submitted 5/27/19, 2:53 PM | Diterima - 3 Juni 2019 | Persiapan | Jadwal interview: 1 Juni 2019, jam 09:00 WIB - WA / Google Hangout |
 | 2  | Alman | Yogyakarta | Submitted 5/27/19, 3:22 PM | - | - | Penentuan jadwal interview |
 | 3  | Indra Wijaya | Palu | Submitted 5/27/19, 3:22 PM | - | - | Penentuan jadwal interview |
-| 4  | Mulyadi Mustamin | Kendari | Submitted 5/27/19, 4:05 PM | - | - | Jadwal interview: 9 Juni 2019, jam 21:00, WA |
+| 4  | Mulyadi Mustamin | Kendari | Submitted 5/27/19, 4:05 PM | - | - | Jadwal interview: 9 Juni 2019, jam 21:00 WIB, WA |
 | 5  | Ade Nuriadin | Donggala | Submitted 5/27/19, 6:04 PM | Tidak diterima | - | Usia tidak memenuhi syarat |
-| 6  | Ady Rahmansyah | Palu (?) | Submitted 5/27/19, 10:46 PM | - | - | Penentuan jadwal interview |
+| 6  | Ady Rahmansyah | Palu (?) | Submitted 5/27/19, 10:46 PM | - | - | Jadwal interview: 10 Juni 2019, jam 10:00 WIB, WA |
 | 7  | Kafin Salim | Jakarta | Submitted 5/28/19, 8:12 AM | Tidak diterima | - | Pembatalan oleh calon peserta |
 | 8  | Zakki | Depok | Submitted 5/28/19, 10:55 AM | - | - | Jadwal interview: 7 Juni 2019, jam 20:00 WIB - WhatsApp |
 | 9  | Hendra | Sigi | Submitted 5/28/19, 12:03 PM | Diterima - 7 Juni 2019 | Persiapan | Jadwal interview: 3 Juni 2019, jam 10 WITA - Google Hangout |
