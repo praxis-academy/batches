@@ -28,8 +28,8 @@ Pendaftaran dan Seleksi | Pengumuman | Pendidikan
 | No | Nama Peserta | Asal Kota | Status Pendaftaran | Status Penerimaan | Status Pendidikan | Keterangan |
 |:--:|:------------:|:---------:|:------------------:|:-----------------:|:-----------------:|:----------:|
 | 1  | Ahmad Maulana Baehaqi | Pasuruan | Submitted 5/27/19, 2:53 PM | Diterima - 3 Juni 2019 | Persiapan | Jadwal interview: 1 Juni 2019, jam 09:00 WIB - WA / Google Hangout |
-| 2  | Alman | Yogyakarta | Submitted 5/27/19, 3:22 PM | - | - | Penentuan jadwal interview |
-| 3  | Indra Wijaya | Palu | Submitted 5/27/19, 3:22 PM | - | - | Penentuan jadwal interview |
+| 2  | Alman | Yogyakarta | Submitted 5/27/19, 3:22 PM | Tidak diterima | - | Jadwal interview: 11 Juni 2019, jam 19:00 WIB, WA |
+| 3  | Indra Wijaya | Palu | Submitted 5/27/19, 3:22 PM | Diterima - 12 Juni 2019 | Pindah batch 2 | Jadwal interview: 11 Juni 2019, jam 19:00 WITA, WA |
 | 4  | Mulyadi Mustamin | Kendari | Submitted 5/27/19, 4:05 PM | Diterima - 10 Juni 2019 | Persiapan | Jadwal interview: 9 Juni 2019, jam 21:00 WIB, WA |
 | 5  | Ade Nuriadin | Donggala | Submitted 5/27/19, 6:04 PM | Tidak diterima | - | Usia tidak memenuhi syarat |
 | 6  | Ady Rahmansyah | Palu | Submitted 5/27/19, 10:46 PM | Diterima - 10 Juni 2019 | Persiapan | Jadwal interview: 10 Juni 2019, jam 10:00 WIB, WA |
@@ -44,3 +44,9 @@ Pendaftaran dan Seleksi | Pengumuman | Pendidikan
 | 15  | Rendy Rivai | Yogyakarta | Submitted 6/2/19, 10:23 AM | - | - | Penentuan jadwal interview |
 | 16  | Hajar Durratun Nasihah | Yogyakarta | Submitted 6/5/19, 1:25 PM | Tidak diterima| - | Usia tidak memenuhi syarat |
 | 17  | Johan Hartantono | Depok, Jawa Barat | 6/9/2019 23:35:20 | - | - | Penentuan jadwal interview |
+
+## Batch 2
+
+| No | Nama Peserta | Asal Kota | Status Pendaftaran | Status Penerimaan | Status Pendidikan | Keterangan |
+|:--:|:------------:|:---------:|:------------------:|:-----------------:|:-----------------:|:----------:|
+| 1  | Indra Wijaya | Palu | Submitted 5/27/19, 3:22 PM | Diterima | - | Pindah dari batch 1 |
