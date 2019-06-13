@@ -38,12 +38,12 @@ Pendaftaran dan Seleksi | Pengumuman | Pendidikan
 | 9  | Hendra | Sigi | Submitted 5/28/19, 12:03 PM | Diterima - 7 Juni 2019 | Persiapan | Jadwal interview: 3 Juni 2019, jam 10 WITA - Google Hangout |
 | 10  | Suratni Jufri | Maluku Utara | Submitted 5/28/19, 11:27 PM | - | - | Penentuan jadwal interview |
 | 11  | Triyas Niko Saputra | Demak | Submitted 5/29/19, 4:35 AM | Tidak diterima | - | Usia tidak memenuhi syarat |
-| 12  | Herlambang Dwi Prakoso | Yogyakarta | Submitted 5/29/19, 9:43 AM | - | - | Jadwal interview: 3 Juni 2019, jam 15:30 WIB, WhatsApp |
+| 12  | Herlambang Dwi Prakoso | Yogyakarta | Submitted 5/29/19, 9:43 AM | Tidak diterima | - | Jadwal interview: 3 Juni 2019, jam 15:30 WIB, WhatsApp |
 | 13  | Suryani | Banten | Submitted 5/30/19, 6:44 AM | Diterima - 10 Juni 2019| Persiapan | Jadwal interview: 8 Juni 2019, jam 21:00 WIB - WhatsApp |
 | 14  | Suritno Fayanto | Yogyakarta | Submitted 5/31/19, 2:59 PM | - | - | Penentuan jadwal interview |
 | 15  | Rendy Rivai | Yogyakarta | Submitted 6/2/19, 10:23 AM | - | - | Penentuan jadwal interview |
 | 16  | Hajar Durratun Nasihah | Yogyakarta | Submitted 6/5/19, 1:25 PM | Tidak diterima| - | Usia tidak memenuhi syarat |
-| 17  | Johan Hartantono | Depok, Jawa Barat | 6/9/2019 23:35:20 | - | - | Penentuan jadwal interview |
+| 17  | Johan Hartantono | Depok, Jawa Barat | 6/9/2019 23:35:20 | - | - | Jadwal interview: 13 Juni 2019, jam 19:00, WA |
 
 ## Batch 2
 
