@@ -50,7 +50,7 @@ Pendaftaran dan Seleksi | Pengumuman | Pendidikan
 | 21  | Muhammad Amin | Pekanbaru | Submitted 6/14/19, 1:37 PM | Tidak diterima | - | Jadwal interview: no response |
 | 22  | Delviro Andika Furqon | Yogyakarta | Submitted 6/14/19, 4:30 PM | | - | Jadwal interview: |
 | 23  | Muhammad Wildan Nugraha | Yogyakarta | Submitted 6/14/19, 5:12 PM | | - | Jadwal interview: |
-| 23  | Setiadi Ramadhan | Yogyakarta | Submitted 6/14/19, 5:13 PM | | - | Jadwal interview: |
+| 24  | Setiadi Ramadhan | Yogyakarta | Submitted 6/14/19, 5:13 PM | | - | Jadwal interview: |
 
 ## Batch 2
 
