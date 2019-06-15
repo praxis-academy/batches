@@ -48,9 +48,9 @@ Pendaftaran dan Seleksi | Pengumuman | Pendidikan
 | 19  | `Panji Sobari S.` | Yogyakarta | Submitted 6/13/19, 2:01 PM | **Diterima - 14 Juni 2019** | Persiapan | Jadwal interview: 13 Juni 2019, jam 20:00, WA |
 | 20  | `M. Akbar Hakin` | Yogyakarta | Submitted 6/13/19, 3:25 PM | **Diterima - 14 Juni 2019** | Persiapan | Jadwal interview: 13 Juni 2019, jam 20:30, WA |
 | 21  | Muhammad Amin | Pekanbaru | Submitted 6/14/19, 1:37 PM | Tidak diterima | - | Jadwal interview: no response |
-| 22  | Delviro Andika Furqon | Yogyakarta | Submitted 6/14/19, 4:30 PM | | - | Jadwal interview: |
-| 23  | Muhammad Wildan Nugraha | Yogyakarta | Submitted 6/14/19, 5:12 PM | | - | Jadwal interview: |
-| 24  | Setiadi Ramadhan | Yogyakarta | Submitted 6/14/19, 5:13 PM | | - | Jadwal interview: |
+| 22  | Delviro Andika Furqon | Yogyakarta | Submitted 6/14/19, 4:30 PM | Tidak diterima | - | Usia tidak memenuhi syarat |
+| 23  | Muhammad Wildan Nugraha | Yogyakarta | Submitted 6/14/19, 5:12 PM | - | - | Jadwal interview: |
+| 24  | Setiadi Ramadhan | Yogyakarta | Submitted 6/14/19, 5:13 PM | - | - | Jadwal interview: |
 
 ## Batch 2
 
